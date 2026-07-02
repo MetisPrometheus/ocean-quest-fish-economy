@@ -1,0 +1,580 @@
+{
+  "claimedReveals": {
+    "1000": true,
+    "10000": true,
+    "10001": true,
+    "1001": true,
+    "1002": true,
+    "1003": true,
+    "1004": true,
+    "1005": true,
+    "1007": true,
+    "1008": true,
+    "1010": true,
+    "1011": true,
+    "1012": true,
+    "1013": true,
+    "1014": true,
+    "1015": true,
+    "1016": true,
+    "1018": true,
+    "1019": true,
+    "1020": true,
+    "1021": true,
+    "1023": true,
+    "1024": true,
+    "1025": true,
+    "1026": true,
+    "1027": true,
+    "1028": true,
+    "1029": true,
+    "1030": true,
+    "1031": true,
+    "1033": true,
+    "1034": true,
+    "1035": true,
+    "1037": true,
+    "1038": true,
+    "1039": true,
+    "2000": true,
+    "2001": true,
+    "2002": true,
+    "2003": true,
+    "2005": true,
+    "2006": true,
+    "2007": true,
+    "2008": true,
+    "2010": true,
+    "2018": true,
+    "2020": true,
+    "2022": true,
+    "2024": true,
+    "2025": true,
+    "2027": true,
+    "2030": true,
+    "2031": true,
+    "2033": true,
+    "2035": true,
+    "2036": true,
+    "2037": true,
+    "2038": true,
+    "3000": true,
+    "3002": true,
+    "3003": true,
+    "3004": true,
+    "3006": true,
+    "3007": true,
+    "3008": true,
+    "3009": true,
+    "3010": true,
+    "3011": true,
+    "3012": true,
+    "3014": true,
+    "3015": true,
+    "3018": true,
+    "4000": true,
+    "4001": true,
+    "4002": true,
+    "4003": true,
+    "4004": true,
+    "4005": true
+  },
+  "fishDex": {
+    "1000": {
+      "firstCaughtAt": 1776099208,
+      "mutations": {
+        "Stone": true
+      },
+      "totalCaught": 5
+    },
+    "10000": {
+      "firstCaughtAt": 1776099989,
+      "mutations": {
+        "Stone": true
+      },
+      "totalCaught": 6
+    },
+    "10001": {
+      "firstCaughtAt": 1776100169,
+      "mutations": [],
+      "totalCaught": 2
+    },
+    "1001": {
+      "firstCaughtAt": 1776099043,
+      "mutations": {
+        "Stone": true
+      },
+      "totalCaught": 12
+    },
+    "1002": {
+      "firstCaughtAt": 1776099144,
+      "mutations": {
+        "Wood": true
+      },
+      "totalCaught": 13
+    },
+    "1003": {
+      "firstCaughtAt": 1776099455,
+      "mutations": {
+        "Wood": true
+      },
+      "totalCaught": 8
+    },
+    "1004": {
+      "firstCaughtAt": 1776099078,
+      "mutations": {
+        "Stone": true
+      },
+      "totalCaught": 6
+    },
+    "1005": {
+      "firstCaughtAt": 1776099494,
+      "mutations": [],
+      "totalCaught": 5
+    },
+    "1006": {
+      "firstCaughtAt": 1776099273,
+      "mutations": [],
+      "totalCaught": 6
+    },
+    "1007": {
+      "firstCaughtAt": 1776099133,
+      "mutations": {
+        "Stone": true
+      },
+      "totalCaught": 5
+    },
+    "1008": {
+      "firstCaughtAt": 1776099703,
+      "mutations": [],
+      "totalCaught": 2
+    },
+    "1010": {
+      "firstCaughtAt": 1776100577,
+      "mutations": {
+        "Magma": true
+      },
+      "totalCaught": 3
+    },
+    "1011": {
+      "firstCaughtAt": 1776102171,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "1012": {
+      "firstCaughtAt": 1776102161,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "1013": {
+      "firstCaughtAt": 1776099967,
+      "mutations": {
+        "Magma": true
+      },
+      "totalCaught": 4
+    },
+    "1014": {
+      "firstCaughtAt": 1776100923,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "1015": {
+      "firstCaughtAt": 1776101583,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "1016": {
+      "firstCaughtAt": 1776101554,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "1018": {
+      "firstCaughtAt": 1776100958,
+      "mutations": [],
+      "totalCaught": 2
+    },
+    "1019": {
+      "firstCaughtAt": 1776100465,
+      "mutations": [],
+      "totalCaught": 2
+    },
+    "1020": {
+      "firstCaughtAt": 1776102442,
+      "mutations": [],
+      "totalCaught": 3
+    },
+    "1021": {
+      "firstCaughtAt": 1776100946,
+      "mutations": [],
+      "totalCaught": 4
+    },
+    "1023": {
+      "firstCaughtAt": 1776102862,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "1024": {
+      "firstCaughtAt": 1776100884,
+      "mutations": {
+        "Crystal": true
+      },
+      "totalCaught": 5
+    },
+    "1025": {
+      "firstCaughtAt": 1776100707,
+      "mutations": [],
+      "totalCaught": 5
+    },
+    "1026": {
+      "firstCaughtAt": 1776100537,
+      "mutations": [],
+      "totalCaught": 6
+    },
+    "1027": {
+      "firstCaughtAt": 1776100602,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "1028": {
+      "firstCaughtAt": 1776100665,
+      "mutations": [],
+      "totalCaught": 3
+    },
+    "1029": {
+      "firstCaughtAt": 1776102340,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "1030": {
+      "firstCaughtAt": 1776100612,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "1031": {
+      "firstCaughtAt": 1776100565,
+      "mutations": [],
+      "totalCaught": 3
+    },
+    "1033": {
+      "firstCaughtAt": 1776101613,
+      "mutations": [],
+      "totalCaught": 3
+    },
+    "1034": {
+      "firstCaughtAt": 1776100647,
+      "mutations": {
+        "Divine": true
+      },
+      "totalCaught": 6
+    },
+    "1035": {
+      "firstCaughtAt": 1776101432,
+      "mutations": [],
+      "totalCaught": 4
+    },
+    "1036": {
+      "firstCaughtAt": 1776100720,
+      "mutations": [],
+      "totalCaught": 4
+    },
+    "1037": {
+      "firstCaughtAt": 1776100475,
+      "mutations": {
+        "Demonic": true
+      },
+      "totalCaught": 3
+    },
+    "1038": {
+      "firstCaughtAt": 1776100512,
+      "mutations": [],
+      "totalCaught": 3
+    },
+    "1039": {
+      "firstCaughtAt": 1776100677,
+      "mutations": {
+        "Cosmic": true
+      },
+      "totalCaught": 4
+    },
+    "2000": {
+      "firstCaughtAt": 1776101199,
+      "mutations": [],
+      "totalCaught": 3
+    },
+    "2001": {
+      "firstCaughtAt": 1776101129,
+      "mutations": {
+        "Wood": true
+      },
+      "totalCaught": 7
+    },
+    "2002": {
+      "firstCaughtAt": 1776101105,
+      "mutations": {
+        "Wood": true
+      },
+      "totalCaught": 2
+    },
+    "2003": {
+      "firstCaughtAt": 1776101171,
+      "mutations": [],
+      "totalCaught": 2
+    },
+    "2004": {
+      "firstCaughtAt": 1776100968,
+      "mutations": [],
+      "totalCaught": 5
+    },
+    "2005": {
+      "firstCaughtAt": 1776103164,
+      "mutations": [],
+      "totalCaught": 2
+    },
+    "2006": {
+      "firstCaughtAt": 1776101292,
+      "mutations": {
+        "Wood": true
+      },
+      "totalCaught": 4
+    },
+    "2007": {
+      "firstCaughtAt": 1776101280,
+      "mutations": {
+        "Wood": true
+      },
+      "totalCaught": 5
+    },
+    "2008": {
+      "firstCaughtAt": 1776100992,
+      "mutations": [],
+      "totalCaught": 6
+    },
+    "2010": {
+      "firstCaughtAt": 1776103125,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "2018": {
+      "firstCaughtAt": 1776106108,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "2020": {
+      "firstCaughtAt": 1776105627,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "2022": {
+      "firstCaughtAt": 1776105776,
+      "mutations": {
+        "Crystal": true
+      },
+      "totalCaught": 1
+    },
+    "2024": {
+      "firstCaughtAt": 1776105901,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "2025": {
+      "firstCaughtAt": 1776105790,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "2027": {
+      "firstCaughtAt": 1776105963,
+      "mutations": [],
+      "totalCaught": 2
+    },
+    "2030": {
+      "firstCaughtAt": 1776105824,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "2031": {
+      "firstCaughtAt": 1776105949,
+      "mutations": {
+        "Void": true
+      },
+      "totalCaught": 1
+    },
+    "2033": {
+      "firstCaughtAt": 1776106130,
+      "mutations": [],
+      "totalCaught": 3
+    },
+    "2035": {
+      "firstCaughtAt": 1776106213,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "2036": {
+      "firstCaughtAt": 1776105924,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "2037": {
+      "firstCaughtAt": 1776105553,
+      "mutations": [],
+      "totalCaught": 2
+    },
+    "2038": {
+      "firstCaughtAt": 1776105938,
+      "mutations": [],
+      "totalCaught": 2
+    },
+    "3000": {
+      "firstCaughtAt": 1776103283,
+      "mutations": [],
+      "totalCaught": 2
+    },
+    "3002": {
+      "firstCaughtAt": 1776103012,
+      "mutations": [],
+      "totalCaught": 8
+    },
+    "3003": {
+      "firstCaughtAt": 1776103202,
+      "mutations": {
+        "Wood": true
+      },
+      "totalCaught": 6
+    },
+    "3004": {
+      "firstCaughtAt": 1776103113,
+      "mutations": [],
+      "totalCaught": 7
+    },
+    "3005": {
+      "firstCaughtAt": 1776103312,
+      "mutations": {
+        "Wood": true
+      },
+      "totalCaught": 4
+    },
+    "3006": {
+      "firstCaughtAt": 1776103251,
+      "mutations": {
+        "Wood": true
+      },
+      "totalCaught": 12
+    },
+    "3007": {
+      "firstCaughtAt": 1776106464,
+      "mutations": [],
+      "totalCaught": 2
+    },
+    "3008": {
+      "firstCaughtAt": 1776106386,
+      "mutations": {
+        "Ice": true
+      },
+      "totalCaught": 10
+    },
+    "3009": {
+      "firstCaughtAt": 1776106427,
+      "mutations": [],
+      "totalCaught": 3
+    },
+    "3010": {
+      "firstCaughtAt": 1776106634,
+      "mutations": [],
+      "totalCaught": 7
+    },
+    "3011": {
+      "firstCaughtAt": 1776106977,
+      "mutations": [],
+      "totalCaught": 5
+    },
+    "3012": {
+      "firstCaughtAt": 1776106625,
+      "mutations": [],
+      "totalCaught": 5
+    },
+    "3013": {
+      "firstCaughtAt": 1776106319,
+      "mutations": {
+        "Slime": true
+      },
+      "totalCaught": 5
+    },
+    "3014": {
+      "firstCaughtAt": 1776106512,
+      "mutations": [],
+      "totalCaught": 2
+    },
+    "3015": {
+      "firstCaughtAt": 1776107037,
+      "mutations": [],
+      "totalCaught": 1
+    },
+    "3018": {
+      "firstCaughtAt": 1776106329,
+      "mutations": {
+        "Slime": true
+      },
+      "totalCaught": 3
+    },
+    "4000": {
+      "firstCaughtAt": 1776103482,
+      "mutations": {
+        "Stone": true
+      },
+      "totalCaught": 12
+    },
+    "4001": {
+      "firstCaughtAt": 1776103524,
+      "mutations": [],
+      "totalCaught": 12
+    },
+    "4002": {
+      "firstCaughtAt": 1776103720,
+      "mutations": {
+        "Stone": true
+      },
+      "totalCaught": 95
+    },
+    "4003": {
+      "firstCaughtAt": 1776103421,
+      "mutations": {
+        "Stone": true,
+        "Wood": true
+      },
+      "totalCaught": 78
+    },
+    "4004": {
+      "firstCaughtAt": 1776103412,
+      "mutations": {
+        "Stone": true,
+        "Wood": true
+      },
+      "totalCaught": 90
+    },
+    "4005": {
+      "firstCaughtAt": 1776103680,
+      "mutations": {
+        "Stone": true,
+        "Wood": true
+      },
+      "totalCaught": 80
+    }
+  },
+  "zones": {
+    "Greek": {
+      "mutationsCount": 6,
+      "speciesCount": 23
+    },
+    "Japanese": {
+      "mutationsCount": 6,
+      "speciesCount": 16
+    },
+    "Pirate": {
+      "mutationsCount": 13,
+      "speciesCount": 38
+    },
+    "Viking": {
+      "mutationsCount": 8,
+      "speciesCount": 6
+    }
+  }
+}

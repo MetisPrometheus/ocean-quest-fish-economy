@@ -1,0 +1,16 @@
+# Appended to /etc/postgresql/16/main/pg_hba.conf by deploy/setup.sh.
+#
+# Two layers of access:
+#   - Local UNIX socket: peer auth (the daemon's `ocean_quest_rw` role only,
+#     no password needed because the OS user matches the DB role).
+#   - External TCP: SSL required, scram-sha-256 password auth.
+#
+# Order matters — Postgres reads top-to-bottom and stops at the first match.
+
+# TYPE    DATABASE       USER             ADDRESS         METHOD
+local     all            postgres                          peer
+local     ocean_quest    ocean_quest_rw                    peer
+hostssl   ocean_quest    ocean_quest_ro   0.0.0.0/0       scram-sha-256
+hostssl   ocean_quest    ocean_quest_rw   0.0.0.0/0       scram-sha-256
+# Block any non-SSL TCP attempt explicitly:
+hostnossl all            all              0.0.0.0/0       reject

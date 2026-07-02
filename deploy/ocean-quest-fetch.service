@@ -1,0 +1,33 @@
+[Unit]
+Description=Ocean Quest player fetch daemon
+After=network-online.target postgresql.service
+Wants=network-online.target
+Requires=postgresql.service
+
+[Service]
+Type=simple
+User=ocean-quest
+Group=ocean-quest
+WorkingDirectory=/opt/projects/ocean-quest
+EnvironmentFile=/etc/ocean-quest/env
+ExecStart=/opt/projects/ocean-quest/venv/bin/python dump_all_players.py --daemon --workers 20 --rate 120
+Restart=always
+RestartSec=10
+
+# Resource caps: leave plenty of headroom for Postgres + future projects.
+MemoryMax=1G
+CPUQuota=150%
+
+# Hardening
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/opt/projects/ocean-quest
+ProtectHome=true
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

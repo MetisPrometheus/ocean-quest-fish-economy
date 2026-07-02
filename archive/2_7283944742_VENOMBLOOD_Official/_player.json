@@ -1,0 +1,16 @@
+{
+  "userId": 7283944742,
+  "username": "VENOMBLOOD_Official",
+  "displayName": "Spectre",
+  "combinedSaveKey": 676,
+  "storesInCombined": [
+    "FishDex",
+    "Inventory",
+    "OfflineRewards",
+    "PlayerMetrics",
+    "Purchases",
+    "QuestData",
+    "SafeStorage",
+    "ShipsData"
+  ]
+}

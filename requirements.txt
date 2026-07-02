@@ -1,2 +1,6 @@
-streamlit
-pandas
+streamlit>=1.30
+pandas>=2.0
+plotly>=5.18
+matplotlib>=3.8
+psycopg[binary]>=3.2
+numpy>=1.26

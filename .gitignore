@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (optional - remove if you want to include sample data)
+*.rbxmx
+*.lua
+
+# Local secrets (.env on dev machine, never commit)
+.env
+
+# Legacy filesystem dumps (superseded by Postgres)
+player_dumps/
+1adrun_player_dumps/
+3adrun_player_dumps/
+
+# OS
+.DS_Store
+Thumbs.db

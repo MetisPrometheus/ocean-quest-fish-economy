@@ -1,0 +1,124 @@
+{
+  "ActiveShip": 420,
+  "BestShip": 420,
+  "OwnedShips": {
+    "100": true,
+    "200": true,
+    "300": false,
+    "400": false,
+    "420": true,
+    "500": false
+  },
+  "SlotActives": {
+    "Ballista": [],
+    "Cannon": [],
+    "Chest": {
+      "L1": "Chest_Reg_T3"
+    },
+    "Harpoon": {
+      "R1": "Harpoon_Reg_T1"
+    },
+    "Helm": {
+      "L1": "Helm_Reg_T9"
+    },
+    "Mortar": [],
+    "Swivel": {
+      "R1": "Swivel_Fire_T2"
+    }
+  },
+  "SlotProgress": {
+    "Ballista": {
+      "L1": {
+        "Reg": 0
+      }
+    },
+    "Cannon": {
+      "L1": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 0
+      },
+      "L2": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 0
+      },
+      "L3": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 0
+      },
+      "L4": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 0
+      },
+      "R1": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 0
+      },
+      "R2": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 0
+      },
+      "R3": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 0
+      },
+      "R4": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 0
+      }
+    },
+    "Chest": {
+      "L1": {
+        "Reg": 3
+      }
+    },
+    "Harpoon": {
+      "L1": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 0
+      },
+      "R1": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 1
+      }
+    },
+    "Helm": {
+      "L1": {
+        "Reg": 9
+      }
+    },
+    "Mortar": {
+      "L1": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 0
+      },
+      "R1": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 0
+      }
+    },
+    "Swivel": {
+      "L1": {
+        "Fire": 0,
+        "Ice": 0,
+        "Reg": 0
+      },
+      "R1": {
+        "Fire": 2,
+        "Ice": 0,
+        "Reg": 0
+      }
+    }
+  }
+}

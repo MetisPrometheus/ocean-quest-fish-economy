@@ -1,0 +1,48 @@
+{
+  "activeQuest": {
+    "assignedAt": 1776107593,
+    "category": "LootFloatables",
+    "claimed": false,
+    "completed": false,
+    "objectives": [
+      {
+        "current": 0,
+        "label": "Loot 3 Floating Chests",
+        "target": 3,
+        "type": "lootFloatable"
+      }
+    ],
+    "reward": 6198,
+    "rodPowerAtAssign": 50,
+    "zone": "Japanese"
+  },
+  "analytics": {
+    "completedByCategory": {
+      "CatchFish": 11,
+      "CatchRarity": 11,
+      "DiscoverSpecies": 9,
+      "LootFloatables": 1
+    },
+    "completedByPowerLevel": {
+      "1": 2,
+      "10": 3,
+      "14": 10,
+      "20": 11,
+      "4": 5,
+      "7": 1
+    },
+    "completedByZone": {
+      "Greek": 11,
+      "Japanese": 0,
+      "Pirate": 21,
+      "Viking": 0
+    },
+    "refreshCount": 3,
+    "refreshedCategories": {
+      "DiscoverSpecies": 2,
+      "LootFloatables": 1
+    },
+    "totalCompleted": 32
+  },
+  "lastRefreshTime": 1776103643
+}

@@ -1,0 +1,57 @@
+{
+  "activeQuest": {
+    "assignedAt": 1776236915,
+    "category": "CatchFish",
+    "claimed": false,
+    "completed": false,
+    "objectives": [
+      {
+        "current": 0,
+        "label": "Catch 22 Fish",
+        "target": 22,
+        "type": "catch"
+      },
+      {
+        "current": 0,
+        "label": "Earn 28.2K g from selling",
+        "target": 28248,
+        "type": "sellGold"
+      }
+    ],
+    "reward": 21186,
+    "rodPowerAtAssign": 70,
+    "zone": "Viking"
+  },
+  "analytics": {
+    "completedByCategory": {
+      "CatchFish": 33,
+      "CatchRarity": 27,
+      "DiscoverSpecies": 13,
+      "LootFloatables": 4
+    },
+    "completedByPowerLevel": {
+      "1": 2,
+      "10": 3,
+      "14": 10,
+      "20": 11,
+      "4": 5,
+      "50": 27,
+      "7": 1,
+      "70": 18
+    },
+    "completedByZone": {
+      "Greek": 11,
+      "Japanese": 27,
+      "Pirate": 21,
+      "Viking": 18
+    },
+    "refreshCount": 17,
+    "refreshedCategories": {
+      "CatchFish": 1,
+      "DiscoverSpecies": 10,
+      "LootFloatables": 6
+    },
+    "totalCompleted": 77
+  },
+  "lastRefreshTime": 1776236526
+}

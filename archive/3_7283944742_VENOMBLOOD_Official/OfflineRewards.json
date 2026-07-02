@@ -1,0 +1,38 @@
+{
+  "bestRodLevel": 16,
+  "extendedDuration": false,
+  "fish": [
+    {
+      "image": "http://www.roblox.com/asset/?id=76441188675856",
+      "itemType": "Fish",
+      "item_id": 3013,
+      "mutation": "Base",
+      "name": "Blue_Sea_Dragon",
+      "percentile": 21,
+      "rarity": "Rare",
+      "rarityRng": "1 in 3400",
+      "size": "Tiny",
+      "timestamp": 1776181820.0128295,
+      "value": 1159,
+      "weight": 11.74,
+      "zone": "Japanese"
+    },
+    {
+      "image": "http://www.roblox.com/asset/?id=92241976197808",
+      "itemType": "Fish",
+      "item_id": 3012,
+      "mutation": "Base",
+      "name": "Sunfin",
+      "percentile": 6,
+      "rarity": "Uncommon",
+      "rarityRng": "1 in 2800",
+      "size": "Tiny",
+      "timestamp": 1776182396.6235073,
+      "value": 887,
+      "weight": 2.45,
+      "zone": "Japanese"
+    }
+  ],
+  "lastGenTime": 1776182396,
+  "lastLogoutTime": 0
+}

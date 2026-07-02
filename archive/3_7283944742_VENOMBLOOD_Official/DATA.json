@@ -1,0 +1,1838 @@
+{
+  "FishDex": {
+    "claimedReveals": {
+      "1000": true,
+      "10000": true,
+      "10001": true,
+      "1001": true,
+      "1002": true,
+      "1003": true,
+      "1004": true,
+      "1005": true,
+      "1007": true,
+      "1008": true,
+      "1010": true,
+      "1011": true,
+      "1012": true,
+      "1013": true,
+      "1014": true,
+      "1015": true,
+      "1016": true,
+      "1018": true,
+      "1019": true,
+      "1020": true,
+      "1021": true,
+      "1023": true,
+      "1024": true,
+      "1025": true,
+      "1026": true,
+      "1027": true,
+      "1028": true,
+      "1029": true,
+      "1030": true,
+      "1031": true,
+      "1033": true,
+      "1034": true,
+      "1035": true,
+      "1037": true,
+      "1038": true,
+      "1039": true,
+      "2000": true,
+      "2001": true,
+      "2002": true,
+      "2003": true,
+      "2005": true,
+      "2006": true,
+      "2007": true,
+      "2008": true,
+      "2010": true,
+      "2018": true,
+      "2020": true,
+      "2022": true,
+      "2024": true,
+      "2025": true,
+      "2027": true,
+      "2030": true,
+      "2031": true,
+      "2033": true,
+      "2035": true,
+      "2036": true,
+      "2037": true,
+      "2038": true,
+      "3000": true,
+      "3002": true,
+      "3003": true,
+      "3004": true,
+      "3006": true,
+      "3007": true,
+      "3008": true,
+      "3009": true,
+      "3010": true,
+      "3011": true,
+      "3012": true,
+      "3014": true,
+      "3015": true,
+      "3018": true,
+      "4000": true,
+      "4001": true,
+      "4002": true,
+      "4003": true,
+      "4004": true,
+      "4005": true
+    },
+    "fishDex": {
+      "1000": {
+        "firstCaughtAt": 1776099208,
+        "mutations": {
+          "Stone": true
+        },
+        "totalCaught": 5
+      },
+      "10000": {
+        "firstCaughtAt": 1776099989,
+        "mutations": {
+          "Stone": true
+        },
+        "totalCaught": 6
+      },
+      "10001": {
+        "firstCaughtAt": 1776100169,
+        "mutations": [],
+        "totalCaught": 2
+      },
+      "1001": {
+        "firstCaughtAt": 1776099043,
+        "mutations": {
+          "Stone": true
+        },
+        "totalCaught": 12
+      },
+      "1002": {
+        "firstCaughtAt": 1776099144,
+        "mutations": {
+          "Wood": true
+        },
+        "totalCaught": 13
+      },
+      "1003": {
+        "firstCaughtAt": 1776099455,
+        "mutations": {
+          "Wood": true
+        },
+        "totalCaught": 8
+      },
+      "1004": {
+        "firstCaughtAt": 1776099078,
+        "mutations": {
+          "Stone": true
+        },
+        "totalCaught": 6
+      },
+      "1005": {
+        "firstCaughtAt": 1776099494,
+        "mutations": [],
+        "totalCaught": 5
+      },
+      "1006": {
+        "firstCaughtAt": 1776099273,
+        "mutations": [],
+        "totalCaught": 6
+      },
+      "1007": {
+        "firstCaughtAt": 1776099133,
+        "mutations": {
+          "Stone": true
+        },
+        "totalCaught": 5
+      },
+      "1008": {
+        "firstCaughtAt": 1776099703,
+        "mutations": [],
+        "totalCaught": 2
+      },
+      "1010": {
+        "firstCaughtAt": 1776100577,
+        "mutations": {
+          "Magma": true
+        },
+        "totalCaught": 3
+      },
+      "1011": {
+        "firstCaughtAt": 1776102171,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "1012": {
+        "firstCaughtAt": 1776102161,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "1013": {
+        "firstCaughtAt": 1776099967,
+        "mutations": {
+          "Magma": true
+        },
+        "totalCaught": 4
+      },
+      "1014": {
+        "firstCaughtAt": 1776100923,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "1015": {
+        "firstCaughtAt": 1776101583,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "1016": {
+        "firstCaughtAt": 1776101554,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "1018": {
+        "firstCaughtAt": 1776100958,
+        "mutations": [],
+        "totalCaught": 2
+      },
+      "1019": {
+        "firstCaughtAt": 1776100465,
+        "mutations": [],
+        "totalCaught": 2
+      },
+      "1020": {
+        "firstCaughtAt": 1776102442,
+        "mutations": [],
+        "totalCaught": 3
+      },
+      "1021": {
+        "firstCaughtAt": 1776100946,
+        "mutations": [],
+        "totalCaught": 4
+      },
+      "1023": {
+        "firstCaughtAt": 1776102862,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "1024": {
+        "firstCaughtAt": 1776100884,
+        "mutations": {
+          "Crystal": true
+        },
+        "totalCaught": 5
+      },
+      "1025": {
+        "firstCaughtAt": 1776100707,
+        "mutations": [],
+        "totalCaught": 5
+      },
+      "1026": {
+        "firstCaughtAt": 1776100537,
+        "mutations": [],
+        "totalCaught": 6
+      },
+      "1027": {
+        "firstCaughtAt": 1776100602,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "1028": {
+        "firstCaughtAt": 1776100665,
+        "mutations": [],
+        "totalCaught": 3
+      },
+      "1029": {
+        "firstCaughtAt": 1776102340,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "1030": {
+        "firstCaughtAt": 1776100612,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "1031": {
+        "firstCaughtAt": 1776100565,
+        "mutations": [],
+        "totalCaught": 3
+      },
+      "1033": {
+        "firstCaughtAt": 1776101613,
+        "mutations": [],
+        "totalCaught": 3
+      },
+      "1034": {
+        "firstCaughtAt": 1776100647,
+        "mutations": {
+          "Divine": true
+        },
+        "totalCaught": 6
+      },
+      "1035": {
+        "firstCaughtAt": 1776101432,
+        "mutations": [],
+        "totalCaught": 4
+      },
+      "1036": {
+        "firstCaughtAt": 1776100720,
+        "mutations": [],
+        "totalCaught": 4
+      },
+      "1037": {
+        "firstCaughtAt": 1776100475,
+        "mutations": {
+          "Demonic": true
+        },
+        "totalCaught": 3
+      },
+      "1038": {
+        "firstCaughtAt": 1776100512,
+        "mutations": [],
+        "totalCaught": 3
+      },
+      "1039": {
+        "firstCaughtAt": 1776100677,
+        "mutations": {
+          "Cosmic": true
+        },
+        "totalCaught": 4
+      },
+      "2000": {
+        "firstCaughtAt": 1776101199,
+        "mutations": [],
+        "totalCaught": 3
+      },
+      "2001": {
+        "firstCaughtAt": 1776101129,
+        "mutations": {
+          "Wood": true
+        },
+        "totalCaught": 7
+      },
+      "2002": {
+        "firstCaughtAt": 1776101105,
+        "mutations": {
+          "Wood": true
+        },
+        "totalCaught": 2
+      },
+      "2003": {
+        "firstCaughtAt": 1776101171,
+        "mutations": [],
+        "totalCaught": 2
+      },
+      "2004": {
+        "firstCaughtAt": 1776100968,
+        "mutations": [],
+        "totalCaught": 5
+      },
+      "2005": {
+        "firstCaughtAt": 1776103164,
+        "mutations": [],
+        "totalCaught": 2
+      },
+      "2006": {
+        "firstCaughtAt": 1776101292,
+        "mutations": {
+          "Wood": true
+        },
+        "totalCaught": 4
+      },
+      "2007": {
+        "firstCaughtAt": 1776101280,
+        "mutations": {
+          "Wood": true
+        },
+        "totalCaught": 5
+      },
+      "2008": {
+        "firstCaughtAt": 1776100992,
+        "mutations": [],
+        "totalCaught": 6
+      },
+      "2010": {
+        "firstCaughtAt": 1776103125,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "2018": {
+        "firstCaughtAt": 1776106108,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "2020": {
+        "firstCaughtAt": 1776105627,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "2022": {
+        "firstCaughtAt": 1776105776,
+        "mutations": {
+          "Crystal": true
+        },
+        "totalCaught": 1
+      },
+      "2024": {
+        "firstCaughtAt": 1776105901,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "2025": {
+        "firstCaughtAt": 1776105790,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "2027": {
+        "firstCaughtAt": 1776105963,
+        "mutations": [],
+        "totalCaught": 2
+      },
+      "2030": {
+        "firstCaughtAt": 1776105824,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "2031": {
+        "firstCaughtAt": 1776105949,
+        "mutations": {
+          "Void": true
+        },
+        "totalCaught": 1
+      },
+      "2033": {
+        "firstCaughtAt": 1776106130,
+        "mutations": [],
+        "totalCaught": 3
+      },
+      "2035": {
+        "firstCaughtAt": 1776106213,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "2036": {
+        "firstCaughtAt": 1776105924,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "2037": {
+        "firstCaughtAt": 1776105553,
+        "mutations": [],
+        "totalCaught": 2
+      },
+      "2038": {
+        "firstCaughtAt": 1776105938,
+        "mutations": [],
+        "totalCaught": 2
+      },
+      "3000": {
+        "firstCaughtAt": 1776103283,
+        "mutations": [],
+        "totalCaught": 2
+      },
+      "3002": {
+        "firstCaughtAt": 1776103012,
+        "mutations": [],
+        "totalCaught": 8
+      },
+      "3003": {
+        "firstCaughtAt": 1776103202,
+        "mutations": {
+          "Wood": true
+        },
+        "totalCaught": 6
+      },
+      "3004": {
+        "firstCaughtAt": 1776103113,
+        "mutations": [],
+        "totalCaught": 7
+      },
+      "3005": {
+        "firstCaughtAt": 1776103312,
+        "mutations": {
+          "Wood": true
+        },
+        "totalCaught": 4
+      },
+      "3006": {
+        "firstCaughtAt": 1776103251,
+        "mutations": {
+          "Wood": true
+        },
+        "totalCaught": 12
+      },
+      "3007": {
+        "firstCaughtAt": 1776106464,
+        "mutations": [],
+        "totalCaught": 2
+      },
+      "3008": {
+        "firstCaughtAt": 1776106386,
+        "mutations": {
+          "Ice": true
+        },
+        "totalCaught": 10
+      },
+      "3009": {
+        "firstCaughtAt": 1776106427,
+        "mutations": [],
+        "totalCaught": 3
+      },
+      "3010": {
+        "firstCaughtAt": 1776106634,
+        "mutations": [],
+        "totalCaught": 7
+      },
+      "3011": {
+        "firstCaughtAt": 1776106977,
+        "mutations": [],
+        "totalCaught": 5
+      },
+      "3012": {
+        "firstCaughtAt": 1776106625,
+        "mutations": [],
+        "totalCaught": 5
+      },
+      "3013": {
+        "firstCaughtAt": 1776106319,
+        "mutations": {
+          "Slime": true
+        },
+        "totalCaught": 5
+      },
+      "3014": {
+        "firstCaughtAt": 1776106512,
+        "mutations": [],
+        "totalCaught": 2
+      },
+      "3015": {
+        "firstCaughtAt": 1776107037,
+        "mutations": [],
+        "totalCaught": 1
+      },
+      "3018": {
+        "firstCaughtAt": 1776106329,
+        "mutations": {
+          "Slime": true
+        },
+        "totalCaught": 3
+      },
+      "4000": {
+        "firstCaughtAt": 1776103482,
+        "mutations": {
+          "Stone": true
+        },
+        "totalCaught": 12
+      },
+      "4001": {
+        "firstCaughtAt": 1776103524,
+        "mutations": [],
+        "totalCaught": 12
+      },
+      "4002": {
+        "firstCaughtAt": 1776103720,
+        "mutations": {
+          "Stone": true
+        },
+        "totalCaught": 95
+      },
+      "4003": {
+        "firstCaughtAt": 1776103421,
+        "mutations": {
+          "Stone": true,
+          "Wood": true
+        },
+        "totalCaught": 78
+      },
+      "4004": {
+        "firstCaughtAt": 1776103412,
+        "mutations": {
+          "Stone": true,
+          "Wood": true
+        },
+        "totalCaught": 90
+      },
+      "4005": {
+        "firstCaughtAt": 1776103680,
+        "mutations": {
+          "Stone": true,
+          "Wood": true
+        },
+        "totalCaught": 80
+      }
+    },
+    "zones": {
+      "Greek": {
+        "mutationsCount": 6,
+        "speciesCount": 23
+      },
+      "Japanese": {
+        "mutationsCount": 6,
+        "speciesCount": 16
+      },
+      "Pirate": {
+        "mutationsCount": 13,
+        "speciesCount": 38
+      },
+      "Viking": {
+        "mutationsCount": 8,
+        "speciesCount": 6
+      }
+    }
+  },
+  "Inventory": {
+    "bestRodLevel": 16,
+    "currencies": {
+      "gold": 115072,
+      "pearls": 0
+    },
+    "hotbar": {
+      "rod": "3f7e8297-43fb-4653-8f1f-7c4d33db5c4b"
+    },
+    "items": {
+      "3f7e8297-43fb-4653-8f1f-7c4d33db5c4b": {
+        "image": "http://www.roblox.com/asset/?id=77811135551505",
+        "itemType": "Fishing Rod",
+        "item_id": 6,
+        "level": 1,
+        "name": "Mystic",
+        "timestamp": 1776105022
+      },
+      "45b61d38-319d-474a-8cee-1c14ad169cc4": {
+        "image": "http://www.roblox.com/asset/?id=100926528150680",
+        "itemType": "Fish",
+        "item_id": 4002,
+        "mutation": "Base",
+        "name": "Bubbler",
+        "percentile": 48,
+        "rarity": "Common",
+        "rarityRng": "1 in 6400",
+        "size": "Normal",
+        "timestamp": 1776207294.9288476,
+        "value": 3085,
+        "weight": 2.26,
+        "zone": "Viking"
+      },
+      "4ce68054-4713-4bbe-a27b-cf879e282e57": {
+        "image": "http://www.roblox.com/asset/?id=102243537374923",
+        "itemType": "Fishing Rod",
+        "item_id": 2,
+        "level": 2,
+        "name": "Bamboo",
+        "timestamp": 1776099532
+      },
+      "4e3b562d-b29e-4d17-8548-1253ff078625": {
+        "image": "http://www.roblox.com/asset/?id=80559959532120",
+        "itemType": "Fishing Rod",
+        "item_id": 3,
+        "level": 1,
+        "name": "Decrepit",
+        "timestamp": 1776100766
+      },
+      "9267eb4f-03b6-46db-989d-3327ac77d6dc": {
+        "image": "http://www.roblox.com/asset/?id=110828786958743",
+        "itemType": "Fish",
+        "item_id": 4003,
+        "mutation": "Base",
+        "name": "Crayfish",
+        "percentile": 49,
+        "rarity": "Common",
+        "rarityRng": "1 in 6400",
+        "size": "Normal",
+        "timestamp": 1776207424.4824653,
+        "value": 3259,
+        "weight": 0.99,
+        "zone": "Viking"
+      },
+      "ace3a837-3415-4f2c-8f5d-5abdc2f07f6b": {
+        "image": "http://www.roblox.com/asset/?id=81222187947429",
+        "itemType": "Fish",
+        "item_id": 4004,
+        "mutation": "Base",
+        "name": "Golden_Fish",
+        "percentile": 65,
+        "rarity": "Common",
+        "rarityRng": "1 in 6400",
+        "size": "Normal",
+        "timestamp": 1776207378.1747148,
+        "value": 3744,
+        "weight": 8.95,
+        "zone": "Viking"
+      },
+      "b919888f-b12e-4224-8ebf-df2a2ea162a7": {
+        "image": "http://www.roblox.com/asset/?id=110828786958743",
+        "itemType": "Fish",
+        "item_id": 4003,
+        "mutation": "Base",
+        "name": "Crayfish",
+        "percentile": 23,
+        "rarity": "Common",
+        "rarityRng": "1 in 6400",
+        "size": "Tiny",
+        "timestamp": 1776207321.610561,
+        "value": 2747,
+        "weight": 0.59,
+        "zone": "Viking"
+      },
+      "bfbb4e8f-e4da-4a67-93ea-54c9646857da": {
+        "image": "http://www.roblox.com/asset/?id=116147068175548",
+        "itemType": "Fish",
+        "item_id": 4005,
+        "mutation": "Base",
+        "name": "Sprat",
+        "percentile": 65,
+        "rarity": "Common",
+        "rarityRng": "1 in 6400",
+        "size": "Normal",
+        "timestamp": 1776207433.4888299,
+        "value": 3914,
+        "weight": 11.77,
+        "zone": "Viking"
+      },
+      "c9435025-373c-4b9e-83e5-71af0ae97fff": {
+        "image": "http://www.roblox.com/asset/?id=116147068175548",
+        "itemType": "Fish",
+        "item_id": 4005,
+        "mutation": "Base",
+        "name": "Sprat",
+        "percentile": 64,
+        "rarity": "Common",
+        "rarityRng": "1 in 6400",
+        "size": "Normal",
+        "timestamp": 1776207283.8812125,
+        "value": 3892,
+        "weight": 11.68,
+        "zone": "Viking"
+      },
+      "cedac805-7ed7-4cbd-b2db-e6fffa923290": {
+        "image": "http://www.roblox.com/asset/?id=107911920482847",
+        "itemType": "Fish",
+        "item_id": 4003,
+        "mutation": "Stone",
+        "name": "Crayfish",
+        "percentile": 66,
+        "rarity": "Common",
+        "rarityRng": "1 in 6400",
+        "size": "Normal",
+        "timestamp": 1776207368.0515635,
+        "value": 3953,
+        "weight": 1.13,
+        "zone": "Viking"
+      },
+      "eb7ca591-aacc-4920-95a8-7091f5ec176a": {
+        "image": "http://www.roblox.com/asset/?id=110828786958743",
+        "itemType": "Fish",
+        "item_id": 4003,
+        "mutation": "Base",
+        "name": "Crayfish",
+        "percentile": 32,
+        "rarity": "Common",
+        "rarityRng": "1 in 6400",
+        "size": "Normal",
+        "timestamp": 1776207332.319832,
+        "value": 2924,
+        "weight": 0.86,
+        "zone": "Viking"
+      },
+      "f7881e15-9daf-4fa8-8f49-8f31deac38b4": {
+        "image": "http://www.roblox.com/asset/?id=110828786958743",
+        "itemType": "Fish",
+        "item_id": 4003,
+        "mutation": "Base",
+        "name": "Crayfish",
+        "percentile": 12,
+        "rarity": "Common",
+        "rarityRng": "1 in 6400",
+        "size": "Tiny",
+        "timestamp": 1776207342.308687,
+        "value": 2531,
+        "weight": 0.52,
+        "zone": "Viking"
+      },
+      "starter_rod": {
+        "image": "http://www.roblox.com/asset/?id=120037796807672",
+        "itemType": "Fishing Rod",
+        "item_id": 1,
+        "level": 3,
+        "name": "Stick",
+        "timestamp": 1776124158.0590558
+      }
+    },
+    "revision": 44,
+    "ships": {
+      "Caravel": {
+        "chest_l1": [],
+        "chest_r1": [],
+        "chest_r2": []
+      },
+      "Destroyer": {
+        "chest_l1": [],
+        "chest_l2": [],
+        "chest_r1": [],
+        "chest_r2": []
+      },
+      "Dinghy": {
+        "chest_l1": [],
+        "chest_r1": []
+      },
+      "Frigate": {
+        "chest_l1": [],
+        "chest_l2": [],
+        "chest_r1": [],
+        "chest_r2": [],
+        "chest_r3": []
+      },
+      "Ketch": {
+        "chest_l1": [],
+        "chest_l2": [],
+        "chest_r1": [],
+        "chest_r2": []
+      },
+      "Sloop": {
+        "chest_l1": [],
+        "chest_r1": [],
+        "chest_r2": []
+      }
+    }
+  },
+  "OfflineRewards": {
+    "bestRodLevel": 16,
+    "extendedDuration": false,
+    "fish": [
+      {
+        "image": "http://www.roblox.com/asset/?id=76441188675856",
+        "itemType": "Fish",
+        "item_id": 3013,
+        "mutation": "Base",
+        "name": "Blue_Sea_Dragon",
+        "percentile": 21,
+        "rarity": "Rare",
+        "rarityRng": "1 in 3400",
+        "size": "Tiny",
+        "timestamp": 1776181820.0128295,
+        "value": 1159,
+        "weight": 11.74,
+        "zone": "Japanese"
+      },
+      {
+        "image": "http://www.roblox.com/asset/?id=92241976197808",
+        "itemType": "Fish",
+        "item_id": 3012,
+        "mutation": "Base",
+        "name": "Sunfin",
+        "percentile": 6,
+        "rarity": "Uncommon",
+        "rarityRng": "1 in 2800",
+        "size": "Tiny",
+        "timestamp": 1776182396.6235073,
+        "value": 887,
+        "weight": 2.45,
+        "zone": "Japanese"
+      }
+    ],
+    "lastGenTime": 1776182396,
+    "lastLogoutTime": 0
+  },
+  "PlayerMetrics": {
+    "combat": {
+      "deaths": 0,
+      "lastDamagedTime": 1776103756,
+      "manualResets": 17,
+      "pvpKills": 0,
+      "shipsSunk": 0,
+      "totalDamageDealt": 0
+    },
+    "economy": {
+      "goldSpentOnShipUpgrades": 48700,
+      "totalGoldEarned": 1291603,
+      "totalGoldFromQuests": 13741,
+      "totalGoldSpent": 48700
+    },
+    "exploration": {
+      "portalsUsed": {
+        "Greek Island": 1,
+        "Pirate Island": 1
+      },
+      "shipsSpawned": {
+        "100": 2,
+        "200": 15,
+        "420": 4
+      },
+      "zonesVisited": {
+        "Greek": true,
+        "Japanese": true,
+        "Pirate": true,
+        "Viking": true
+      }
+    },
+    "fishing": {
+      "caughtBorderFishing": 3,
+      "caughtInMutationEvent": 14,
+      "caughtInPvPZone": 544,
+      "caughtInSafeZone": 91,
+      "fishDiscovered": 83,
+      "totalCaught": 638,
+      "totalGoldFromFish": 1277862,
+      "totalSold": 682
+    },
+    "locationPath": [
+      {
+        "t": 1776181251,
+        "x": -420,
+        "z": -90
+      },
+      {
+        "t": 1776181261,
+        "x": -418,
+        "z": -82
+      },
+      {
+        "t": 1776181271,
+        "x": -411,
+        "z": -11
+      },
+      {
+        "t": 1776181281,
+        "x": -395,
+        "z": 16
+      },
+      {
+        "t": 1776181291,
+        "x": -419,
+        "z": -83
+      },
+      {
+        "t": 1776181301,
+        "x": -414,
+        "z": -46
+      },
+      {
+        "t": 1776181311,
+        "x": -414,
+        "z": -46
+      },
+      {
+        "t": 1776181321,
+        "x": -424,
+        "z": -79
+      },
+      {
+        "t": 1776181331,
+        "x": -392,
+        "z": 16
+      },
+      {
+        "t": 1776181341,
+        "x": -426,
+        "z": -104
+      },
+      {
+        "t": 1776181351,
+        "x": -591,
+        "z": -173
+      },
+      {
+        "t": 1776181361,
+        "x": -1577,
+        "z": 1073
+      },
+      {
+        "t": 1776181371,
+        "x": -1577,
+        "z": 1073
+      },
+      {
+        "t": 1776181381,
+        "x": -1577,
+        "z": 1073
+      },
+      {
+        "t": 1776181391,
+        "x": -1581,
+        "z": 1082
+      },
+      {
+        "t": 1776181401,
+        "x": -385,
+        "z": -204
+      },
+      {
+        "t": 1776181411,
+        "x": -415,
+        "z": -136
+      },
+      {
+        "t": 1776181421,
+        "x": -388,
+        "z": 14
+      },
+      {
+        "t": 1776181431,
+        "x": -381,
+        "z": 11
+      },
+      {
+        "t": 1776181441,
+        "x": -395,
+        "z": 16
+      },
+      {
+        "t": 1776181451,
+        "x": -462,
+        "z": 63
+      },
+      {
+        "t": 1776181461,
+        "x": -512,
+        "z": 181
+      },
+      {
+        "t": 1776181472,
+        "x": -444,
+        "z": 381
+      },
+      {
+        "t": 1776181482,
+        "x": -509,
+        "z": 195
+      },
+      {
+        "t": 1776181492,
+        "x": -309,
+        "z": 333
+      },
+      {
+        "t": 1776181502,
+        "x": -402,
+        "z": 178
+      },
+      {
+        "t": 1776181512,
+        "x": -393,
+        "z": 128
+      },
+      {
+        "t": 1776181522,
+        "x": -393,
+        "z": 128
+      },
+      {
+        "t": 1776181532,
+        "x": -393,
+        "z": 128
+      },
+      {
+        "t": 1776181542,
+        "x": -393,
+        "z": 128
+      },
+      {
+        "t": 1776181552,
+        "x": -383,
+        "z": 451
+      },
+      {
+        "t": 1776181562,
+        "x": -330,
+        "z": 840
+      },
+      {
+        "t": 1776181572,
+        "x": -299,
+        "z": 906
+      },
+      {
+        "t": 1776181582,
+        "x": -38,
+        "z": 1461
+      },
+      {
+        "t": 1776181592,
+        "x": 235,
+        "z": 2041
+      },
+      {
+        "t": 1776181602,
+        "x": 413,
+        "z": 2643
+      },
+      {
+        "t": 1776181612,
+        "x": 458,
+        "z": 3279
+      },
+      {
+        "t": 1776181622,
+        "x": 466,
+        "z": 3389
+      },
+      {
+        "t": 1776181632,
+        "x": 465,
+        "z": 3385
+      },
+      {
+        "t": 1776181642,
+        "x": 466,
+        "z": 3390
+      },
+      {
+        "t": 1776181652,
+        "x": 465,
+        "z": 3386
+      },
+      {
+        "t": 1776181662,
+        "x": 466,
+        "z": 3389
+      },
+      {
+        "t": 1776181672,
+        "x": 465,
+        "z": 3386
+      },
+      {
+        "t": 1776181682,
+        "x": 501,
+        "z": 3892
+      },
+      {
+        "t": 1776181692,
+        "x": 724,
+        "z": 4492
+      },
+      {
+        "t": 1776181702,
+        "x": 737,
+        "z": 4524
+      },
+      {
+        "t": 1776181712,
+        "x": 752,
+        "z": 4554
+      },
+      {
+        "t": 1776181722,
+        "x": 837,
+        "z": 4728
+      },
+      {
+        "t": 1776181732,
+        "x": 1123,
+        "z": 5310
+      },
+      {
+        "t": 1776181742,
+        "x": 1404,
+        "z": 5883
+      },
+      {
+        "t": 1776181752,
+        "x": 1686,
+        "z": 6456
+      },
+      {
+        "t": 1776181762,
+        "x": 1970,
+        "z": 7036
+      },
+      {
+        "t": 1776181772,
+        "x": 2037,
+        "z": 7593
+      },
+      {
+        "t": 1776181782,
+        "x": 1971,
+        "z": 8103
+      },
+      {
+        "t": 1776181792,
+        "x": 2057,
+        "z": 8724
+      },
+      {
+        "t": 1776181802,
+        "x": 2212,
+        "z": 9330
+      },
+      {
+        "t": 1776181812,
+        "x": 2073,
+        "z": 9940
+      },
+      {
+        "t": 1776181822,
+        "x": 2085,
+        "z": 9993
+      },
+      {
+        "t": 1776181832,
+        "x": 2274,
+        "z": 10230
+      },
+      {
+        "t": 1776181842,
+        "x": 2427,
+        "z": 10429
+      },
+      {
+        "t": 1776181852,
+        "x": 2430,
+        "z": 10433
+      },
+      {
+        "t": 1776181862,
+        "x": 2426,
+        "z": 10429
+      },
+      {
+        "t": 1776181872,
+        "x": 2429,
+        "z": 10432
+      },
+      {
+        "t": 1776181882,
+        "x": 2719,
+        "z": 10794
+      },
+      {
+        "t": 1776181892,
+        "x": 2817,
+        "z": 11067
+      },
+      {
+        "t": 1776181902,
+        "x": 2951,
+        "z": 11458
+      },
+      {
+        "t": 1776181912,
+        "x": 3153,
+        "z": 12042
+      },
+      {
+        "t": 1776181922,
+        "x": 3232,
+        "z": 12271
+      },
+      {
+        "t": 1776181932,
+        "x": 3435,
+        "z": 12860
+      },
+      {
+        "t": 1776181942,
+        "x": 3457,
+        "z": 13496
+      },
+      {
+        "t": 1776181952,
+        "x": 3517,
+        "z": 13962
+      },
+      {
+        "t": 1776181962,
+        "x": 3529,
+        "z": 13994
+      },
+      {
+        "t": 1776181972,
+        "x": 3646,
+        "z": 14595
+      },
+      {
+        "t": 1776181982,
+        "x": 3912,
+        "z": 14701
+      },
+      {
+        "t": 1776181992,
+        "x": 4088,
+        "z": 14597
+      },
+      {
+        "t": 1776182002,
+        "x": 4653,
+        "z": 14367
+      },
+      {
+        "t": 1776182012,
+        "x": 5285,
+        "z": 14345
+      },
+      {
+        "t": 1776182022,
+        "x": 5730,
+        "z": 14598
+      },
+      {
+        "t": 1776182032,
+        "x": 6261,
+        "z": 14875
+      },
+      {
+        "t": 1776182042,
+        "x": 6389,
+        "z": 15008
+      },
+      {
+        "t": 1776182052,
+        "x": 6357,
+        "z": 15135
+      },
+      {
+        "t": 1776182062,
+        "x": 6359,
+        "z": 15136
+      },
+      {
+        "t": 1776182072,
+        "x": 6143,
+        "z": 15147
+      },
+      {
+        "t": 1776182082,
+        "x": 6132,
+        "z": 15061
+      },
+      {
+        "t": 1776182092,
+        "x": 6149,
+        "z": 15261
+      },
+      {
+        "t": 1776182103,
+        "x": 6208,
+        "z": 15407
+      },
+      {
+        "t": 1776182113,
+        "x": 6292,
+        "z": 15420
+      },
+      {
+        "t": 1776182123,
+        "x": 6292,
+        "z": 15420
+      },
+      {
+        "t": 1776182133,
+        "x": 6292,
+        "z": 15420
+      },
+      {
+        "t": 1776182143,
+        "x": 6292,
+        "z": 15420
+      },
+      {
+        "t": 1776182153,
+        "x": 6292,
+        "z": 15420
+      },
+      {
+        "t": 1776182163,
+        "x": 6292,
+        "z": 15420
+      },
+      {
+        "t": 1776182173,
+        "x": 6292,
+        "z": 15420
+      },
+      {
+        "t": 1776182183,
+        "x": 6292,
+        "z": 15420
+      },
+      {
+        "t": 1776182193,
+        "x": 6292,
+        "z": 15420
+      },
+      {
+        "t": 1776182203,
+        "x": 6292,
+        "z": 15420
+      },
+      {
+        "t": 1776182213,
+        "x": 6292,
+        "z": 15420
+      },
+      {
+        "t": 1776182223,
+        "x": 6292,
+        "z": 15420
+      },
+      {
+        "t": 1776182233,
+        "x": 6236,
+        "z": 15390
+      },
+      {
+        "t": 1776182243,
+        "x": 6214,
+        "z": 15442
+      },
+      {
+        "t": 1776182253,
+        "x": 6214,
+        "z": 15442
+      },
+      {
+        "t": 1776182263,
+        "x": 6214,
+        "z": 15442
+      },
+      {
+        "t": 1776182273,
+        "x": 6215,
+        "z": 15443
+      },
+      {
+        "t": 1776182283,
+        "x": 6215,
+        "z": 15443
+      },
+      {
+        "t": 1776182293,
+        "x": 6215,
+        "z": 15443
+      },
+      {
+        "t": 1776182303,
+        "x": 6199,
+        "z": 15404
+      },
+      {
+        "t": 1776182313,
+        "x": 6199,
+        "z": 15404
+      },
+      {
+        "t": 1776182323,
+        "x": 6199,
+        "z": 15404
+      },
+      {
+        "t": 1776182333,
+        "x": 6199,
+        "z": 15404
+      },
+      {
+        "t": 1776182343,
+        "x": 6233,
+        "z": 15453
+      },
+      {
+        "t": 1776182353,
+        "x": 6234,
+        "z": 15453
+      },
+      {
+        "t": 1776182363,
+        "x": 6234,
+        "z": 15453
+      },
+      {
+        "t": 1776182373,
+        "x": 6234,
+        "z": 15453
+      },
+      {
+        "t": 1776182383,
+        "x": 6326,
+        "z": 15492
+      },
+      {
+        "t": 1776182393,
+        "x": 6352,
+        "z": 15378
+      },
+      {
+        "t": 1776182403,
+        "x": 6334,
+        "z": 15402
+      },
+      {
+        "t": 1776182413,
+        "x": 6313,
+        "z": 15486
+      },
+      {
+        "t": 1776182423,
+        "x": 6311,
+        "z": 15482
+      },
+      {
+        "t": 1776182433,
+        "x": 6311,
+        "z": 15482
+      },
+      {
+        "t": 1776182443,
+        "x": 6311,
+        "z": 15482
+      },
+      {
+        "t": 1776182453,
+        "x": 6311,
+        "z": 15482
+      },
+      {
+        "t": 1776182463,
+        "x": 6311,
+        "z": 15482
+      },
+      {
+        "t": 1776182473,
+        "x": 6324,
+        "z": 15489
+      },
+      {
+        "t": 1776182483,
+        "x": 6315,
+        "z": 15496
+      },
+      {
+        "t": 1776182493,
+        "x": 6316,
+        "z": 15496
+      },
+      {
+        "t": 1776182503,
+        "x": 6316,
+        "z": 15496
+      },
+      {
+        "t": 1776182513,
+        "x": 6316,
+        "z": 15497
+      },
+      {
+        "t": 1776182523,
+        "x": 6316,
+        "z": 15497
+      },
+      {
+        "t": 1776182533,
+        "x": 6316,
+        "z": 15497
+      },
+      {
+        "t": 1776182543,
+        "x": 6316,
+        "z": 15497
+      },
+      {
+        "t": 1776182553,
+        "x": 6316,
+        "z": 15497
+      },
+      {
+        "t": 1776182563,
+        "x": 6316,
+        "z": 15497
+      },
+      {
+        "t": 1776182573,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182583,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182593,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182603,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182613,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182623,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182633,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182643,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182653,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182663,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182673,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182683,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182693,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182703,
+        "x": 6320,
+        "z": 15471
+      },
+      {
+        "t": 1776182713,
+        "x": 6320,
+        "z": 15471
+      }
+    ],
+    "offlineRewards": {
+      "promptOpened": 3
+    },
+    "sessions": {
+      "currentSessionStart": 1776181241,
+      "history": [
+        {
+          "duration": 13159,
+          "endTime": 1776112101,
+          "startTime": 1776098942
+        },
+        {
+          "duration": 2526,
+          "endTime": 1776114672,
+          "startTime": 1776112146
+        },
+        {
+          "duration": 4768,
+          "endTime": 1776144575,
+          "startTime": 1776139807
+        }
+      ],
+      "longestSession": 13159,
+      "shortestSession": 2526,
+      "totalCount": 4,
+      "totalPlaytime": 20453
+    },
+    "social": {
+      "chatMessages": 381
+    },
+    "storage": {
+      "fishInSafeStorage": 0
+    },
+    "tutorial": {
+      "completed": true,
+      "highestStepReached": 5,
+      "stepIdReached": "go_to_fish_seller"
+    }
+  },
+  "Purchases": {
+    "consumables": [],
+    "permanent": {
+      "bagTier": 0,
+      "offlineExtend": false,
+      "sellAnywhere": true
+    }
+  },
+  "QuestData": {
+    "activeQuest": {
+      "assignedAt": 1776108040,
+      "category": "DiscoverSpecies",
+      "claimed": false,
+      "completed": false,
+      "objectives": [
+        {
+          "current": 0,
+          "label": "Discover 1 New Species",
+          "target": 1,
+          "type": "discover"
+        }
+      ],
+      "reward": 3099,
+      "rodPowerAtAssign": 50,
+      "zone": "Japanese"
+    },
+    "analytics": {
+      "completedByCategory": {
+        "CatchFish": 11,
+        "CatchRarity": 11,
+        "DiscoverSpecies": 9,
+        "LootFloatables": 2
+      },
+      "completedByPowerLevel": {
+        "1": 2,
+        "10": 3,
+        "14": 10,
+        "20": 11,
+        "4": 5,
+        "50": 1,
+        "7": 1
+      },
+      "completedByZone": {
+        "Greek": 11,
+        "Japanese": 1,
+        "Pirate": 21,
+        "Viking": 0
+      },
+      "refreshCount": 3,
+      "refreshedCategories": {
+        "DiscoverSpecies": 2,
+        "LootFloatables": 1
+      },
+      "totalCompleted": 33
+    },
+    "lastRefreshTime": 1776103643
+  },
+  "SafeStorage": {
+    "items": [],
+    "purchaseCount": 0
+  },
+  "ShipsData": {
+    "ActiveShip": 420,
+    "BestShip": 420,
+    "OwnedShips": {
+      "100": true,
+      "200": true,
+      "300": false,
+      "400": false,
+      "420": true,
+      "500": false
+    },
+    "SlotActives": {
+      "Ballista": [],
+      "Cannon": [],
+      "Chest": {
+        "L1": "Chest_Reg_T3"
+      },
+      "Harpoon": {
+        "R1": "Harpoon_Reg_T1"
+      },
+      "Helm": {
+        "L1": "Helm_Reg_T9"
+      },
+      "Mortar": [],
+      "Swivel": {
+        "R1": "Swivel_Fire_T2"
+      }
+    },
+    "SlotProgress": {
+      "Ballista": {
+        "L1": {
+          "Reg": 0
+        }
+      },
+      "Cannon": {
+        "L1": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 0
+        },
+        "L2": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 0
+        },
+        "L3": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 0
+        },
+        "L4": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 0
+        },
+        "R1": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 0
+        },
+        "R2": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 0
+        },
+        "R3": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 0
+        },
+        "R4": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 0
+        }
+      },
+      "Chest": {
+        "L1": {
+          "Reg": 3
+        }
+      },
+      "Harpoon": {
+        "L1": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 0
+        },
+        "R1": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 1
+        }
+      },
+      "Helm": {
+        "L1": {
+          "Reg": 9
+        }
+      },
+      "Mortar": {
+        "L1": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 0
+        },
+        "R1": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 0
+        }
+      },
+      "Swivel": {
+        "L1": {
+          "Fire": 0,
+          "Ice": 0,
+          "Reg": 0
+        },
+        "R1": {
+          "Fire": 2,
+          "Ice": 0,
+          "Reg": 0
+        }
+      }
+    }
+  }
+}

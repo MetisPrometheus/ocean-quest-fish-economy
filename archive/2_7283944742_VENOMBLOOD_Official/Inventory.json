@@ -1,0 +1,95 @@
+{
+  "bestRodLevel": 16,
+  "currencies": {
+    "gold": 712626,
+    "pearls": 0
+  },
+  "hotbar": {
+    "rod": "3f7e8297-43fb-4653-8f1f-7c4d33db5c4b"
+  },
+  "items": {
+    "23fd8b0a-d3b0-4063-a7f1-880a58456e1f": {
+      "image": "http://www.roblox.com/asset/?id=116147068175548",
+      "itemType": "Fish",
+      "item_id": 4005,
+      "mutation": "Base",
+      "name": "Sprat",
+      "percentile": 35,
+      "rarity": "Common",
+      "rarityRng": "1 in 6400",
+      "size": "Normal",
+      "timestamp": 1776139732.1141803,
+      "value": 3267,
+      "weight": 9.24,
+      "zone": "Viking"
+    },
+    "3f7e8297-43fb-4653-8f1f-7c4d33db5c4b": {
+      "image": "http://www.roblox.com/asset/?id=77811135551505",
+      "itemType": "Fishing Rod",
+      "item_id": 6,
+      "level": 1,
+      "name": "Mystic",
+      "timestamp": 1776105022
+    },
+    "4ce68054-4713-4bbe-a27b-cf879e282e57": {
+      "image": "http://www.roblox.com/asset/?id=102243537374923",
+      "itemType": "Fishing Rod",
+      "item_id": 2,
+      "level": 2,
+      "name": "Bamboo",
+      "timestamp": 1776099532
+    },
+    "4e3b562d-b29e-4d17-8548-1253ff078625": {
+      "image": "http://www.roblox.com/asset/?id=80559959532120",
+      "itemType": "Fishing Rod",
+      "item_id": 3,
+      "level": 1,
+      "name": "Decrepit",
+      "timestamp": 1776100766
+    },
+    "starter_rod": {
+      "image": "http://www.roblox.com/asset/?id=120037796807672",
+      "itemType": "Fishing Rod",
+      "item_id": 1,
+      "level": 3,
+      "name": "Stick",
+      "timestamp": 1776124158.0590558
+    }
+  },
+  "revision": 31,
+  "ships": {
+    "Caravel": {
+      "chest_l1": [],
+      "chest_r1": [],
+      "chest_r2": []
+    },
+    "Destroyer": {
+      "chest_l1": [],
+      "chest_l2": [],
+      "chest_r1": [],
+      "chest_r2": []
+    },
+    "Dinghy": {
+      "chest_l1": [],
+      "chest_r1": []
+    },
+    "Frigate": {
+      "chest_l1": [],
+      "chest_l2": [],
+      "chest_r1": [],
+      "chest_r2": [],
+      "chest_r3": []
+    },
+    "Ketch": {
+      "chest_l1": [],
+      "chest_l2": [],
+      "chest_r1": [],
+      "chest_r2": []
+    },
+    "Sloop": {
+      "chest_l1": [],
+      "chest_r1": [],
+      "chest_r2": []
+    }
+  }
+}

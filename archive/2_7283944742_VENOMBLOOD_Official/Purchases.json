@@ -1,0 +1,8 @@
+{
+  "consumables": [],
+  "permanent": {
+    "bagTier": 0,
+    "offlineExtend": false,
+    "sellAnywhere": true
+  }
+}

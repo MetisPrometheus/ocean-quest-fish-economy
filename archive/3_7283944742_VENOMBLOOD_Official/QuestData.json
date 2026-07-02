@@ -1,0 +1,49 @@
+{
+  "activeQuest": {
+    "assignedAt": 1776108040,
+    "category": "DiscoverSpecies",
+    "claimed": false,
+    "completed": false,
+    "objectives": [
+      {
+        "current": 0,
+        "label": "Discover 1 New Species",
+        "target": 1,
+        "type": "discover"
+      }
+    ],
+    "reward": 3099,
+    "rodPowerAtAssign": 50,
+    "zone": "Japanese"
+  },
+  "analytics": {
+    "completedByCategory": {
+      "CatchFish": 11,
+      "CatchRarity": 11,
+      "DiscoverSpecies": 9,
+      "LootFloatables": 2
+    },
+    "completedByPowerLevel": {
+      "1": 2,
+      "10": 3,
+      "14": 10,
+      "20": 11,
+      "4": 5,
+      "50": 1,
+      "7": 1
+    },
+    "completedByZone": {
+      "Greek": 11,
+      "Japanese": 1,
+      "Pirate": 21,
+      "Viking": 0
+    },
+    "refreshCount": 3,
+    "refreshedCategories": {
+      "DiscoverSpecies": 2,
+      "LootFloatables": 1
+    },
+    "totalCompleted": 33
+  },
+  "lastRefreshTime": 1776103643
+}
